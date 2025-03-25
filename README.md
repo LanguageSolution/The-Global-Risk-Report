@@ -4,7 +4,8 @@
 # OVERVIEW
 
 This is a self-guided project. The final results and datasets of my analysis can be found in the script
-"Task 6.7_Creating_Data_for_Dashboard.ipynb" and as an interactive Tableau presentation to be viewed in full screen. 
+"Task 6.7_Creating_Data_for_Dashboard.ipynb" 
+and as an interactive Tableau presentation to be viewed in full screen. 
 
 ## OBJECTIVE
 
