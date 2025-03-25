@@ -1,2 +1,2 @@
 # The-Global-Risk-Report
-Understanding Exposure and Vulnerabilty around the World
+Understanding Exposure and Vulnerabilty around the Globe
