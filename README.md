@@ -60,7 +60,7 @@ Used in Jupyter notebooks
 DATA SOURCE
 
 - ["World Disaster Risk Dataset"](https://www.kaggle.com/datasets/tr1gg3rtrash/global-disaster-risk-index-time-series-dataset) by Mrinal Tyagi, accessed via Kaggle: It is showcasing the WorldRiskIndex (WRI) that measures disaster risk from extreme natural events and climate change impacts, calculated per country by combining exposure and vulnerability in this report.
--   Provided by the United Nations Development Program (UNDP):The Human Development Index (HDI) is a summary measure of average achievement in key dimensions of human development: a long and healthy life, being knowledgeable and having a decent standard of living.
+-  ["Human Development Index"](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI) provided by the United Nations Development Program (UNDP): The Human Development Index (HDI) is a summary measure of average achievement in key dimensions of human development: a long and healthy life, being knowledgeable and having a decent standard of living.
 
 LIMITATIONS
 
