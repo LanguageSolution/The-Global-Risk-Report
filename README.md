@@ -37,8 +37,8 @@ The analysis is therefore guided by these questions:
 -   Creating Data Dashboards
 
 ## ANALYTICAL METHODS
+Exploratory analysis through visualizations:
 
--   Exploratory analysis through visualizations:
 -   Scatterplots
 -   Geospatial analysis using a shapefile
 -   Linear regression analysis
