@@ -1,14 +1,6 @@
 
 ![stage-the-global-risks-report-2023-1200x600](https://github.com/user-attachments/assets/8b5aa872-b68c-4f50-bb84-df57a908eef5)
 
-# OVERVIEW
-
-This is a self-guided project. The final results and datasets of my analysis can be found in the script
-
-"Task 6.7_Creating_Data_for_Dashboard.ipynb" 
-
-and as an interactive Tableau presentation to be viewed in full screen. 
-
 ## OBJECTIVE
 
 This analysis was made to identify and understand the complex interactions between natural hazards, infrastructure resilience and socio-economic vulnerability as reflected in the WorldRiskIndex. It aims to uncover patterns in the interaction of the dimensions that could contribute to data-driven decision-making and support disaster risk management possibilities.
