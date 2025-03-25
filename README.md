@@ -70,7 +70,7 @@ Used in Jupyter notebooks
 
 # FINAL PROJECT PRESENTATION
 
-The final project presentation was created using Tableau Public and can be viewed in the 
+The final project presentation was created using Tableau Public and can be viewed in this
 
 ### [Tableau Storyboard](https://public.tableau.com/app/profile/sarahtischer/viz/UnderstandingDisasterRiskwiththeWorldRiskIndex/UnderstandingDisasterRisk)
 
