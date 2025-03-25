@@ -72,6 +72,6 @@ Used in Jupyter notebooks
 
 The final project presentation was created using Tableau Public and can be viewed in this
 
-### [Tableau Storyboard](https://public.tableau.com/app/profile/sarahtischer/viz/UnderstandingDisasterRiskwiththeWorldRiskIndex/UnderstandingDisasterRisk)
+### [Tableau Storyboard](https://public.tableau.com/app/profile/markus.teich/viz/TheGlobalRiskReportMT_17429247689150/WorldRiskIndex)
 
 The storyboard provides a comprehensive overview of the data-driven narrative developed throughout the project and is best viewed in full screen mode on a laptop.
