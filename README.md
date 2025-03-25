@@ -46,7 +46,7 @@ Exploratory analysis through visualizations:
 
 ## PYTHON LIBRARIES
 
-Used in Jupyter notebooks
+Used in Jupyter notebooks:
 
 -   Pandas: for data analysis
 -   Numpy: for mathematical equations
