@@ -1,6 +1,9 @@
+
+![stage-the-global-risks-report-2023-1200x600](https://github.com/user-attachments/assets/8b5aa872-b68c-4f50-bb84-df57a908eef5)
+
 OVERVIEW
 
-This is a self-guided project aimed at determining whether or not there is a link between incidents of terrorism and economic factors, specifically GDP per capita, inflation, and unemployment. The final results of my analysis can be found in the script "6.7 Creating Data Dashboards" and as an interactive Tableau presentation to be viewed in full screen. .
+This is a self-guided project aimed at determining whether or not there is a link between incidents of terrorism and economic factors, specifically GDP per capita, inflation, and unemployment. The final results of my analysis can be found in the script "6.7 Creating Data Dashboards" and as an interactive Tableau presentation to be viewed in full screen. 
 
 OBJECTIVE
 
