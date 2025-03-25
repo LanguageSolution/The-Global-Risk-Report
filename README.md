@@ -3,7 +3,8 @@
 
 # OVERVIEW
 
-This is a self-guided project aimed at contributing to a global view of the links between natural hazards, susceptibilty in societies and disaster risk reduction to draw forward-looking conclusions for aid, policy making and reporting. The final results and datadets of my analysis can be found in the script "Task 6.7_Creating_Data_for_Dashboard.ipynb" and as an interactive [Tableau presentation] (https://public.tableau.com/app/profile/markus.teich/viz/TheGlobalRiskReportMT_17429247689150/WorldRiskIndex) to be viewed in full screen. 
+This is a self-guided project aimed at contributing to a global view of the links between natural hazards, susceptibilty in societies and disaster risk reduction to draw forward-looking conclusions for aid, policy making and reporting. The final results and datadets of my analysis can be found in the script "Task 6.7_Creating_Data_for_Dashboard.ipynb" and as an interactive 
+[Tableau presentation] (https://public.tableau.com/app/profile/markus.teich/viz/TheGlobalRiskReportMT_17429247689150/WorldRiskIndex) to be viewed in full screen. 
 
 ## OBJECTIVE
 
