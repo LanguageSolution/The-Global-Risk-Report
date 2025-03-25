@@ -3,7 +3,7 @@
 
 # OVERVIEW
 
-This is a self-guided project aimed at determining whether or not there is a link between incidents of terrorism and economic factors, specifically GDP per capita, inflation, and unemployment. The final results of my analysis can be found in the script "6.7 Creating Data Dashboards" and as an interactive Tableau presentation to be viewed in full screen. 
+This is a self-guided project aimed at contributing to a global view of the links between natural hazards, susceptibilty in societies and disaster risk reduction to draw forward-looking conclusions for aid, policy making and reporting. The final results of my analysis can be found in the script "6.7 Creating Data Dashboards" and as an interactive Tableau presentation to be viewed in full screen. 
 
 ## OBJECTIVE
 
@@ -15,7 +15,6 @@ The analysis is therefore guided by the question: "How do complex interactions b
 
 Millions of people around the world face the consequences of extreme natural events such as earthquakes, storms, and floods. While the intensity of these events is important, the societal framework and response structures are equally critical in determining the magnitude of the disaster.
 
-The WorldRiskReport aims to contribute to a global view of the links between natural hazards, climate change, development and disaster risk reduction and to draw forward-looking conclusions for aid, policy making and reporting.
 
 ## KEY QUESTIONS
 
