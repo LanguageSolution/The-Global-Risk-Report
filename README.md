@@ -65,7 +65,7 @@ Used in Jupyter notebooks:
 
 # FINAL PROJECT PRESENTATION
 
-The final project presentation was created using Tableau Public and can be viewed in this
+The final project presentation was created using Tableau Public and can be viewed here:
 
 ### [Tableau Storyboard](https://public.tableau.com/app/profile/markus.teich/viz/TheGlobalRiskReportMT_17429247689150/WorldRiskIndex)
 
